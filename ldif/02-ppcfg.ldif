@@ -9,7 +9,7 @@ objectClass: top
 objectClass: device
 objectClass: pwdPolicy
 cn: default
-pwdAttribute: userPassword
+pwdAttribute: Password
 pwdAllowUserChange: TRUE
 pwdCheckQuality: 1
 pwdExpireWarning: 3600
